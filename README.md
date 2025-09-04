@@ -1,28 +1,5 @@
 ## lazy-image-preloader
 
-Pequeña biblioteca para precargar imágenes de forma perezosa (lazy-loading) con transiciones y detección automática de WebP.
-
-### Descripción
-
-`preloadImages` observa imágenes en el DOM (por selector) y las carga cuando entran en el viewport. Soporta prioridades, transiciones sencillas (fade, slide-in, scale), detección automática de WebP y un fallback cuando `IntersectionObserver` no está disponible.
-
-### Instalación
-
-Instala desde npm (si publicas el paquete) o usa la copia local del repositorio:
-
-```
-npm install lazy-image-preloader
-```
-
-O para desarrollo/ejecución local:
-
-```
-npm install
-# luego importa desde `src/index.js` o compila según tu bundler
-```
-
-## lazy-image-preloader
-
 Lightweight helper for lazy-loading images with simple transitions and automatic WebP detection.
 
 ### Description
