@@ -1,1 +1,6 @@
 node_modules
+test
+*.test.js
+jest.config.js
+rollup.config.js
+.eslintrc.json

@@ -83,15 +83,6 @@ preloadImages('.lazy-img', {
 - If no images match the selector the function logs a `console.warn` and exits gracefully.
 - Ensure your `img` elements start with a placeholder (for example a tiny inline image or `src="data:image/gif;base64,..."`) or no `src` until the real source is loaded.
 
-### Tests
-
-This repository includes tests using Jest. To run tests locally:
-
-```
-npm install
-npm test
-```
-
 ### Contributing
 
 If you'd like to contribute, open an issue or a pull request. Keep PRs small and add tests for functional changes.
