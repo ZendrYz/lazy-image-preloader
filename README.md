@@ -8,8 +8,6 @@ The `preloadImages` function observes images in the DOM (by selector) and loads 
 
 ### Installation
 
-Install from npm (if published) or use the repository locally:
-
 ```
 npm install lazy-image-preloader
 ```
@@ -97,11 +95,3 @@ npm test
 ### Contributing
 
 If you'd like to contribute, open an issue or a pull request. Keep PRs small and add tests for functional changes.
-
-### License
-
-Add the appropriate license in `package.json` or a `LICENSE` file (for example MIT).
-
----
-
-If you want badges, bundler examples (Webpack/Rollup/Vite) or a snippet showing usage with a `<script type="module">` tag, tell me and I will add them.

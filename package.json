@@ -1,6 +1,6 @@
 {
   "name": "lazy-image-preloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight module for lazy loading and preloading images with priorities and animations",
   "main": "index.js",
   "type": "module",
