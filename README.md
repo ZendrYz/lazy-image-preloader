@@ -1,4 +1,4 @@
-## lazy-image-preloader
+## smart-image-preloader
 
 Lightweight helper for lazy-loading images with simple transitions and automatic WebP detection.
 
@@ -9,7 +9,7 @@ The `preloadImages` function observes images in the DOM (by selector) and loads 
 ### Installation
 
 ```
-npm install lazy-image-preloader
+npm install smart-image-preloader
 ```
 
 For local development:
@@ -24,7 +24,7 @@ npm install
 Import and initialize the preloader for a selector of images:
 
 ```javascript
-import { preloadImages } from 'lazy-image-preloader';
+import { preloadImages } from 'smart-image-preloader';
 
 preloadImages('.lazy-img');
 ```
